@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fawaz 👋
 
-<!--
-**fawaz-BQ/fawaz-BQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Front-End Developer
+💻 Currently Learning:
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-Here are some ideas to get you started:
+🎯 Interests
+🌐 Web Development
+🎨 UI/UX Design
+💻 Frontend Development
+🚀 Building Modern Websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Ado-Ekiti, Nigeria
+
+🌱 Building projects and improving my skills every day.
+🚀 Working On:
+- Personal Portfolio Website
+
+📫 Contact:
+- GitHub: https://github.com/fawaz-BQ
+- Email: sarumifawaz860@gmail.com
