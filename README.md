@@ -10,7 +10,6 @@
 
 🎯 Interests
 🌐 Web Development
-🎨 UI/UX Design
 💻 Frontend Development
 🚀 Building Modern Websites
 
